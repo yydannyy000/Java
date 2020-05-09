@@ -189,3 +189,15 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+
+strings.xml
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="tea">
+        <item>紅茶</item>
+        <item>綠茶</item>
+        <item>青茶</item>
+        <item>四季春</item>
+        <item>烏龍茶</item>
+    </string-array>
+</resources>
